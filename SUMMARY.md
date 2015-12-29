@@ -1,5 +1,5 @@
 # Summary
 
-* [Internet of Things](documentation/InternetOfThings/InternetOfThings.md)
 * Introduction
+* [Internet of Things](documentation/InternetOfThings/InternetOfThings.md)
 
